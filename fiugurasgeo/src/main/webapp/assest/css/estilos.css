@@ -5,32 +5,49 @@
  font-family:Arial, Helvetica, sans-serif;
  background-color:rgb(153, 153, 255);
 }
-#pT{font-size:  30px;
-    font-family: Arial, Helvetica, sans-serif;}
-#areaT{font-family: Arial, Helvetica, sans-serif;
- font-size: 20px;}
-#perimeT{font-family: Arial, Helvetica, sans-serif;
-   font-size: 20px;}
-#imagentrapecio{
+#pT
+{
+ font-size:30px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+#areaT
+{font-family: Arial, Helvetica, sans-serif;
+ font-size: 20px;
+}
+#perimeT
+{font-family:Arial, Helvetica, sans-serif;
+ font-size:20px;}
+#imagentrapecio
+{
     width: 300px;
     height: 300px;
-    text-align: center;}
-.Trapecio{background-color: rgb(204, 204, 255);}
-.Rombo{background-color:  rgb(255, 255, 204);}
-#TituloRombo{background-color: rgb(255, 255, 153);
+    text-align: center;
+}
+.Trapecio
+{background-color:rgb(204, 204, 255);}
+.Rombo
+{background-color:rgb(255, 255, 204);}
+#TituloRombo
+{background-color: rgb(255, 255, 153);
  font-size: 50px;
  font-family: Arial, Helvetica, sans-serif;}
-#pRombo{font-size:  30px;
+#pRombo
+{font-size:  30px;
  font-family: Arial, Helvetica, sans-serif;}
-#areaR{font-family: Arial, Helvetica, sans-serif;
+#areaR
+{font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;}
-#perimetroR{font-family: Arial, Helvetica, sans-serif;
+#perimetroR
+{font-family: Arial, Helvetica, sans-serif;
  font-size: 20px; }
-.Heptagono{background-color: rgb(204, 255, 255);}
-#TituloHeptagono{background-color: rgb(102, 255, 255);
+.Heptagono
+{background-color: rgb(204, 255, 255);}
+#TituloHeptagono
+{background-color: rgb(102, 255, 255);
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;}
-.Menu{background-color: rgb(255, 204, 255);
+.Menu
+{background-color: rgb(255, 204, 255);
 font-size:  50px;
 font-family: Arial, Helvetica, sans-serif;}
 .Bienvenido{
