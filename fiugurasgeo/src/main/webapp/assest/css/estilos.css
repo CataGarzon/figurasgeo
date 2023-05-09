@@ -5,10 +5,10 @@
  font-family:Arial, Helvetica, sans-serif;
  background-color:rgb(153, 153, 255);
 }
-#pT
+#pt
 {
- font-size:30px;
- font-family: Arial, Helvetica, sans-serif;
+ tamaño de fuente : 30px ;
+ familia de fuentes : Arial , Helvetica , sans-serif ;
 }
 #areaT
 {font-family: Arial, Helvetica, sans-serif;
@@ -43,9 +43,10 @@
 .Heptagono
 {background-color: rgb(204, 255, 255);}
 #TituloHeptagono
-{background-color: rgb(102, 255, 255);
-    font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;}
+{ color de fondo : rgb (102, 255, 255);
+    tamaño de fuente : 50 px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .Menu
 {background-color: rgb(255, 204, 255);
 font-size:  50px;
